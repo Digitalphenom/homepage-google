@@ -1,4 +1,7 @@
-google homepage 
-May, 16 2021
 
-Experiment with CSS part 2
+The Odin Project
+Google Homepage Exercise
+May, 16-May-17 2021
+Aprox 4 hours
+
+A simple exercise to stregthen retention of HTML & CSS
