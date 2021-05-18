@@ -1,6 +1,6 @@
 
 # The Odin Project
-# Google Homepage Exercise
+ Google Homepage Exercise
 May, 16
 Aprox 4 hours
 
